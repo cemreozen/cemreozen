@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cemreozen
 - 🌱 I’m currently learning C and Java programming.
-- 💞️ I’m looking to collaborate on fun little projects.
+- 💞️ I’m looking to collaborate on not much atm tbh.
 - 📫 How to reach me ...
 - 😄 Pronouns: she/they, does not matter really.
 
