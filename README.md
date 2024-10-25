@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cemreozen
-- 🌱 I’m currently learning C and Java programming. want to learn: rust, zig and assembly 
+- 🌱 I’m currently learning C and Java programming.
 - 💞️ I’m looking to collaborate on not much atm tbh.
 - 📫 How to reach me: google me bby
 - 😄 Pronouns: no preference.
