@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @cemreozen
-- 🌱 I’m currently learning C and Java programming.
+- 🌱 I’m a CS student currently learning C and Java programming.
 - 💞️ I'm not looking to collaborate. Just living my life and vibing.
-- 📫 How to reach me: google me bby
 - 😄 Pronouns: she/her.
 
 <!---
