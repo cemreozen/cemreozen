@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cemreozen
+- 👋 Hi, I’m Cemre
 - 🌱 I’m a CS student currently learning C and Java programming.
 - 💞️ I'm not looking to collaborate. Just living my life and vibing.
 - 😄 Pronouns: she/her.
