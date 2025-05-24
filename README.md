@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Cemre
-- 🌱 I’m an applied computing student currently learning C and Java programming.
+- 🌱 I’m an applied computing student currently learning Java programming.
 - 💞️ I'm not looking to collaborate. Just living my life and vibing.
 - 😄 Pronouns: she/her.
 
